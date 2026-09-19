@@ -2,7 +2,7 @@
 <div align="center">
 <h1>👋 Hi! 👋</h1>  
   <img src="https://i.pinimg.com/736x/e4/87/7e/e4877efd7a73fceb57fb68febf651778.jpg" width="250"/>
-   <p>I'm Knowell, a 2nd year CS student based in Cebu 🇵🇭. <br/> Currently studying to become a fullstack AI-engineer! 🚀</p>
+   <p>I'm Knowell, a 2nd year CS student based in Cebu 🇵🇭. <br/> Currently studying to become a full-stack AI engineer! 🚀</p>
 
 <br/><br/>
 
