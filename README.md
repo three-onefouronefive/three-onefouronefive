@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/736x/e4/87/7e/e4877efd7a73fceb57fb68febf651778.jpg" width="250"/>
    <p>I'm Knowell, a 2nd year CS student based in Cebu 🇵🇭. <br/> Currently studying to become a fullstack AI-engineer! 🚀</p>
 
-<br/>
+<br/><br/>
 
 <h2>💻 Languages</h2>
 
@@ -15,6 +15,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-F7DF1E?style=flat&logo=cplusplus&logoColor=000000)
 ![JAVA](https://img.shields.io/badge/Java-6A5ACD?style=flat&logo=openjdk&logoColor=FFFFFF)
 
+<br/>
+
 <h2>⚙️ Frameworks & Tools</h2>
 
 ![REACT](https://img.shields.io/badge/React-F7DF1E?style=flat&logo=react&logoColor=000000)
@@ -22,6 +24,8 @@
 ![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-F7DF1E?style=flat&logo=tailwindcss&logoColor=000000)
 ![PRISMA](https://img.shields.io/badge/Prisma-6A5ACD?style=flat&logo=prisma&logoColor=FFFFFF)
 ![VERCEL](https://img.shields.io/badge/Vercel-F7DF1E?style=flat&logo=vercel&logoColor=000000)
+
+<br/>
 
 <h2>📚 Courses</h2>
 
